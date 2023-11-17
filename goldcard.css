@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+#GoldCard{
+    background-color: rgb(31, 75, 156);
+    padding: 10px;
+    color: white;
+    text-align: justify;
+}
+.Gold{
+    margin-top: 5rem;
+}
+
+#GoldCard p{
+    background-color: whitesmoke;
+    color: black;
+    padding: 30px;
+    border-radius: 10px;
+}
+.footer{
+    text-align: center;
+    padding: 7px;
+    background-color: rgb(12, 12, 12);
+    color: white;
+    
+}
+.footer p{
+    padding-top: 7px;
+}

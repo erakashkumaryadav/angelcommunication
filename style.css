@@ -1,0 +1,137 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#Services{
+    background-color: rgb(31, 75, 156);
+    color: white;
+
+}
+#Services img{
+    height: fit-content;
+    margin-bottom: 2rem;
+}
+
+#Services p{
+    text-align: justify;
+    min-height: fit-content;
+    max-height: fit-content;
+
+}
+.angel{
+    margin-top: 11rem;
+    text-align: center;
+}
+.angelimg{
+    margin-top: 6rem;
+}
+
+.Servicessection{
+    background-color: rgb(31, 75, 156);
+    color: white;
+   
+}
+.Servicessection h3{
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 4.5rem;
+    padding-bottom: 2rem;
+}
+.Servicessection p{
+    padding: 15px;
+    text-align: center;
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 8px;
+
+}
+.footer{
+    text-align: center;
+    padding: 8px;
+    background-color: rgb(12, 12, 12);
+    color: white;
+}
+.footer p{
+    padding-top: 10px;
+}
+
+#About{
+   background-color: rgb(31, 75, 156);
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 4.5rem;
+    padding-bottom: 2rem;
+    color: white;
+}
+.About p{
+    text-align: justify;
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 8px;
+    padding: 10px;
+}
+#Contact{
+    background-color: rgb(31, 75, 156);
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 4.5rem;
+    padding-bottom: 2rem;
+    color: white;
+}
+
+.Contact p{
+    text-align: center;
+    background-color: whitesmoke;
+    color: black;
+    padding: 10px;
+    border-radius: 8px;
+   
+}
+
+#Experience{
+    text-align: center;
+}
+#div p{
+    text-align: justify;
+}
+.div p{
+    text-align: justify;
+}
+.GoldCard{
+    text-decoration: none;
+}
+.SilverCard{
+    text-decoration: none;
+}
+.BrownCard{
+    text-decoration: none;
+}
+.CustomerSupport{
+    text-decoration: none;
+}
+
+#Social{
+    background-color: rgb(49, 49, 49);
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+
+
+/*===============================
+1.) Media Query for mobile
+ ===============================*/
+@media only screen and (max-width: 767px) {
+    .angel {
+         margin-top: 5.5rem;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .angelimg {
+         margin-top: 1rem;
+    }
+}
